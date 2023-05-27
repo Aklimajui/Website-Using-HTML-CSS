@@ -1,0 +1,100 @@
+.header_section{
+    margin-top: 0;
+    margin-bottom: 40px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(48, 83, 109);
+}
+.header_section h2{
+    padding-top: 50px;
+    color: rgb(85, 146, 125);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:40px;
+    font-weight:lighter;
+}
+.header_section p{
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:18px;
+    font-weight:lighter;
+    line-height: 30px;
+    padding-bottom: 20px;
+}
+button{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 55px;
+    width: 150px;
+    border: 1px solid white;
+    background-color: rgb(48, 83, 109);
+    color: white;
+    border-radius: 8px;
+}
+.mid_section{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    background-color: white;
+}
+.mid_box1{
+    margin-left: 250px;
+    margin-right: 30px;
+    width: 300px;
+    display: inline-block;
+}
+.mid_box2{
+    width: 300px;
+    display: inline-block;
+}
+.mid_box3{
+    margin-left: 30px;
+    margin-right: 40px;
+    width: 300px;
+    display: inline-block;
+}
+h3{
+    text-align: left;
+    color: rgb(158, 154, 154);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+h4{
+    text-align: left;
+    color: rgb(158, 154, 154);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+img{
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    border-radius: 8px;
+}
+p{
+    color: darkgrey;  
+}
+.footer_section{
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+    background-color: rgb(48, 83, 109);
+}
+.footer_left{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+    padding-top: 60px;
+    padding-left: 250px;
+    color: rgb(88, 240, 169);
+    display: inline-block;
+    margin-right: 300px;
+}
+.footer_right{
+    display: inline-block;
+    color: white;
+    font-weight: lighter;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
